@@ -100,10 +100,11 @@
   position: relative;
   color: white;
 }
-.bottom-right
+.top-right
 {
+  font-size: 120%;
   position: absolute;
-  bottom: 0px;
+  top : 0px;
   right: 18px;
   background-color: gray;
   font-weight: bold;
