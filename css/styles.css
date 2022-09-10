@@ -8,11 +8,6 @@
   background-color:white;
 }
 
-#navigation
-{
-  
-
-} 
 
 
 .new-bar
@@ -109,10 +104,17 @@
 {
   position: absolute;
   bottom: 0px;
-  right: 46px;
+  right: 18px;
   background-color: gray;
   font-weight: bold;
   padding: 10px;
+}
+.repo
+{
+  position: relative;
+  bottom: 0px;
+  left: 325px;
+  
 }
 .back
 {
