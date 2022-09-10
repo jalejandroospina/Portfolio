@@ -1,0 +1,124 @@
+*
+{
+  margin: 0;
+  padding: 0;  
+}
+.body
+{
+  background-color:white;
+}
+
+#navigation
+{
+  
+
+} 
+
+
+.new-bar
+{
+  margin: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  
+}
+.new-bar a
+{
+  text-decoration:overline;
+  font-size:x-large;
+  margin-left: 50px;
+  margin-right: 50px;
+  color: sienna; 
+}
+.titles
+{
+  color:black
+}
+.subtitles
+{
+  text-align: center;
+  color: sienna;
+}
+
+
+.name
+{
+  text-align: center;
+   font-size: 400%;
+   
+}
+.description
+{
+   text-align: center;
+   font-style: italic;
+   color: rgb(82, 82, 82);
+}
+
+
+
+
+
+#proyects
+{
+  
+  margin-bottom: 100px;
+  color: black;
+}
+
+#about
+{
+  background-color: #f1f1f1;
+  padding-bottom: 100px;
+  
+}
+
+#contact
+{
+  background-color:black;
+  color: white;
+}
+
+.trademark
+{
+  position: absolute;
+  right: 50px;
+}
+.link
+{
+  font-style: italic;
+  font-size: large;
+  color: lightseagreen;
+  text-align: center;
+}
+.link:hover
+{
+  color: sienna;
+}
+
+
+/* images */
+.cont-img
+{
+
+  position: relative;
+  color: white;
+}
+.bottom-right
+{
+  position: absolute;
+  bottom: 0px;
+  right: 46px;
+  background-color: gray;
+  font-weight: bold;
+  padding: 10px;
+}
+.back
+{
+  
+  text-align: center;
+  margin:  5px;
+}
+
+
