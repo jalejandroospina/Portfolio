@@ -86,6 +86,7 @@
   font-size: large;
   color: lightseagreen;
   text-align: center;
+  
 }
 .link:hover
 {
@@ -105,7 +106,7 @@
   font-size: 120%;
   position: absolute;
   top : 0px;
-  right: 18px;
+  right: 46px;
   background-color: gray;
   font-weight: bold;
   padding: 10px;
@@ -114,14 +115,15 @@
 {
   position: relative;
   bottom: 0px;
-  left: 325px;
+  left: 315px;
   
 }
-.back
+
+.text
 {
   
-  text-align: center;
-  margin:  5px;
+margin: 2rem;
 }
+
 
 
