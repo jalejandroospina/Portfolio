@@ -29,12 +29,16 @@
 }
 .titles
 {
-  color:black
+  color:black;
+  font-family: 'Questrial', sans-serif;
+
 }
 .subtitles
 {
   text-align: center;
   color: sienna;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
 }
 
 
@@ -42,6 +46,7 @@
 {
   text-align: center;
    font-size: 400%;
+   font-family: 'Questrial', sans-serif;
    
 }
 .description
@@ -122,7 +127,23 @@
 .text
 {
   
-margin: 2rem;
+  font-family: 'Noto Serif Georgian', serif;
+
+}
+
+.image
+{
+
+  margin: 50px;
+  margin-left: 100px;
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+  
+}
+.img-proyect
+{
+ 
 }
 
 
