@@ -6,7 +6,16 @@
 .body
 {
   background-color:white;
+  
 }
+.item
+{
+  width: 300px;
+  margin: 20px;
+
+  text-align: center;
+}
+
 
 
 
@@ -49,7 +58,7 @@
    font-family: 'Questrial', sans-serif;
    
 }
-.description
+.tag
 {
    text-align: center;
    font-style: italic;
@@ -91,6 +100,9 @@
   font-size: large;
   color: lightseagreen;
   text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  
   
 }
 .link:hover
@@ -106,12 +118,14 @@
   position: relative;
   color: white;
 }
+
 .top-right
 {
+  border-radius: 2px;
   font-size: 120%;
   position: absolute;
   top : 0px;
-  right: 46px;
+  right: 3px;
   background-color: gray;
   font-weight: bold;
   padding: 10px;
@@ -120,14 +134,15 @@
 {
   position: relative;
   bottom: 0px;
-  left: 315px;
+  left: 311px;
   
 }
 
-.text
+.description
 {
   
   font-family: 'Noto Serif Georgian', serif;
+  text-align: justify;
 
 }
 
@@ -141,10 +156,5 @@
   border-radius: 20px;
   
 }
-.img-proyect
-{
- 
-}
-
 
 
