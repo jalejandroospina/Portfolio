@@ -206,10 +206,12 @@
 .about
 {
   margin-top: 60px;
+  margin-bottom: 20px;
 }
 .tag
 {
   margin-top: 80px;
+  padding: 0;
 }
 .footer
 {
@@ -225,11 +227,68 @@
   
 }
 
-
-
-
-  
 }
+
+ /* Tablet*/
+@media (min-width: 521px) and (max-width: 1023px) 
+{
+    .top-right
+  {
+    
+    right: 78px;
+  
+  }
+  .repo
+  {
+    
+    left: 300px;
+    
+  }
+  .icons
+  {
+    
+    margin-left: 80px;
+  }
+ 
+    .footer
+    {
+      margin: 10px;
+      display: flex;
+      flex-direction:column;
+      flex-wrap: wrap;
+    }
+    
+    .tag
+    {
+      margin-top: 80px;
+     
+    }
+    .description
+    {
+      margin-left: 40px;
+      
+    }
+    .photo
+    {
+
+      margin-left: 80px;
+      margin-top: 100px;
+      
+      width: 250px;
+      height: 250px;
+      
+    }
+    .info
+    {
+      margin-left: 50px;
+    }
+    
+
+   
+    
+  }
+
+
 
 
 
